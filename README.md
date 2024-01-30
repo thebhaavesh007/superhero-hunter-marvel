@@ -4,7 +4,7 @@
 
 # Deployed link
   
-https://thebhaavesh007.github.io/superhero-hunter-marvel/
+- [Live Site](https://thebhaavesh007.github.io/superhero-hunter-marvel/)
 
 # Technology We Used :computer: 
 1. HTML5
